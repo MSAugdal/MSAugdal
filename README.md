@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![MSAugdal's GitHub stats](https://github-readme-stats.vercel.app/api?username=msaugdal&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![MSAugdal's GitHub stats](https://github-readme-stats.vercel.app/api?username=msaugdal&theme=ambient_gradient&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MSAugdal/MSAugdal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
